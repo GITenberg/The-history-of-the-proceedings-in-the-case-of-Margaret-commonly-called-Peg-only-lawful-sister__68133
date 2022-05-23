@@ -1,0 +1,37 @@
+_repo: The-history-of-the-proceedings-in-the-case-of-Margaret-commonly-called-Peg-only-lawful-sister__68133
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: https://en.wikipedia.org/wiki/David_Hume
+  - agent_name: Ferguson, Adam
+    birthdate: 1723
+    deathdate: 1816
+    gutenberg_agent_id: '2831'
+    url: http://www.gutenberg.org/2009/agents/2831
+    wikipedia: https://en.wikipedia.org/wiki/Adam_Ferguson
+description: ''
+gutenberg_issued: '2022-05-20'
+identifiers:
+  gutenberg: '68133'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015063614260
+pgterms:marc905: 20211125182059ferguson
+pgterms:marc906: '1761'
+pgterms:marc907: gb
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.)
+publication_note: United Kingdom :W. Owen,1761.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The history of the proceedings in the case of Margaret, commonly called Peg,
+  only lawful sister to John Bull, Esq.
+url: http://www.gutenberg.org/ebooks/68133
