@@ -1,5 +1,8 @@
 _repo: The-history-of-the-proceedings-in-the-case-of-Margaret-commonly-called-Peg-only-lawful-sister__68133
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68133-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hume, David
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2831
     wikipedia: https://en.wikipedia.org/wiki/Adam_Ferguson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68133#The-history-of-the-proceedings-in-the-case-of-Margaret-commonly-called-Peg-only-lawful-sister_
 gutenberg_issued: '2022-05-20'
 identifiers:
   gutenberg: '68133'
